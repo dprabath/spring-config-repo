@@ -1,0 +1,5 @@
+server:
+  context-path: /notifications
+  port: 8000
+
+message: "Hello Prabath!"
